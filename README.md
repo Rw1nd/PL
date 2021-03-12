@@ -19,3 +19,8 @@ Some resources about PL.
 ## book
 
 [Coq'Art](https://www.labri.fr/perso/casteran/CoqArt/)
+
+[types and programming languages](https://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091)
+
+[practical foundations for programming languages](https://www.cs.cmu.edu/~rwh/pfpl/)
+
