@@ -14,3 +14,8 @@ Some resources about PL.
 
 [Finding and understanding bugs in C compilers](https://dl.acm.org/doi/10.1145/1993498.1993532)
 
+
+
+## book
+
+[Coq'Art](https://www.labri.fr/perso/casteran/CoqArt/)
