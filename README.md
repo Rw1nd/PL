@@ -13,8 +13,7 @@ Some resources about PL.
 ## paper
 
 [Finding and understanding bugs in C compilers](https://dl.acm.org/doi/10.1145/1993498.1993532)
-
-
+[Scaling symbolic evaluation for automated verification of systems code with Serval](https://unsat.cs.washington.edu/papers/nelson-serval.pdf)
 
 ## book
 
