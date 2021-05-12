@@ -1,6 +1,6 @@
 # PL
 
-Some resources about PL.
+Some resources about PL(verification).
 
 ## conference
 
@@ -8,7 +8,11 @@ Some resources about PL.
 
 [Most Influential PLDI Paper Award](https://www.sigplan.org/Awards/PLDI/)
 
+## course
 
+[软件理论基础与实践](https://xiongyingfei.github.io/SF/2021/lectures.html)
+
+[Formal Semantics of Programming Languages](https://cs.nju.edu.cn/hongjin/teaching/semantics/index.htm)
 
 ## paper
 
