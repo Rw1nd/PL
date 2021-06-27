@@ -20,6 +20,8 @@ Some resources about PL(verification).
 
 [Scaling symbolic evaluation for automated verification of systems code with Serval](https://unsat.cs.washington.edu/papers/nelson-serval.pdf)
 
+[Using concurrent relational logic with helpers for verifying the AtomFS file system](https://dl.acm.org/doi/10.1145/3341301.3359644)
+
 ## book
 
 [Coq'Art](https://www.labri.fr/perso/casteran/CoqArt/)
