@@ -30,3 +30,7 @@ Some resources about PL(verification).
 
 [practical foundations for programming languages](https://www.cs.cmu.edu/~rwh/pfpl/)
 
+## tools
+
+[Rosette](https://docs.racket-lang.org/rosette-guide/index.html)
+
