@@ -22,6 +22,8 @@ Some resources about PL(verification).
 
 [Using concurrent relational logic with helpers for verifying the AtomFS file system](https://dl.acm.org/doi/10.1145/3341301.3359644)
 
+[A lightweight symbolic virtual machine for solver-aided host languages](https://dl.acm.org/doi/10.1145/2666356.2594340)
+
 ## book
 
 [Coq'Art](https://www.labri.fr/perso/casteran/CoqArt/)
