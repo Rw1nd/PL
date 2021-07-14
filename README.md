@@ -14,6 +14,8 @@ Some resources about PL(verification).
 
 [Formal Semantics of Programming Languages](https://cs.nju.edu.cn/hongjin/teaching/semantics/index.htm)
 
+[Principles of Computer Systems](https://6826.csail.mit.edu/2020/)
+
 ## Papers
 
 [Finding and understanding bugs in C compilers](https://dl.acm.org/doi/10.1145/1993498.1993532)
