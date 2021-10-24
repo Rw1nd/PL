@@ -46,6 +46,10 @@ Some resources about PL(verification).
 
 [SpaceSearch: A Library for Building and Verifying Solver-Aided Tools](https://dl.acm.org/doi/abs/10.1145/3110269)
 
+[Satisfiability modulo theories: introduction and applications](https://dl.acm.org/doi/abs/10.1145/1995376.1995394)
+
+[Symbolic Execution for Software Testing Three Decades Later](https://dl.acm.org/doi/10.1145/2408776.2408795)
+
 ## Books
 
 [Coq'Art](https://www.labri.fr/perso/casteran/CoqArt/)
