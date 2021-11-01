@@ -50,6 +50,10 @@ Some resources about PL(verification).
 
 [Symbolic Execution for Software Testing Three Decades Later](https://dl.acm.org/doi/10.1145/2408776.2408795)
 
+## Videos
+
+Solver-Aided Programming for All
+
 ## Books
 
 [Coq'Art](https://www.labri.fr/perso/casteran/CoqArt/)
