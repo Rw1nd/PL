@@ -66,6 +66,8 @@ Solver-Aided Programming for All
 
 [Rosette](https://docs.racket-lang.org/rosette-guide/index.html)
 
+[CDCL](https://cse442-17f.github.io/Conflict-Driven-Clause-Learning/)
+
 ## Tutorials
 
 [serval-tutorial-sosp19](https://github.com/uw-unsat/serval-tutorial-sosp19)
